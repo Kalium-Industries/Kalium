@@ -31,6 +31,7 @@ This is a yes/no situation, preformance mode won't limit your alts, but if their
 In the future it is planned to fully open source Kalium, but during the beta testing periods Kalium will be closed source and obfuscated.
 
 
+
 ## Support
 
 Common issues:
@@ -40,6 +41,8 @@ Common issues:
 - Testing Mode Enabled: This means that testing mode is enabled in the config and will not run Kalium | Fix: Disable testing mode.
 
 - Error Code 787: Error loading Kalium | Fix: Let it rejoin and re-execute, if it continues to happen wait for Kalium to update.
+
+- Error Code 786: Kalium Config Handler failed to load. | Fix: Let it rejoin and re-execute, if it continues to happen wait for Kalium to update.
 
 ## Start using Kalium!
 
