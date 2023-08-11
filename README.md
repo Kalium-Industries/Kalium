@@ -22,7 +22,7 @@ The leading Roblox alt control.
 
 This completely depends on how powerful your computer is, Kalium is able to use as many alts as you need, just add them into the alts table. If you are struggling on running a lot use preformance mode!
 
-#### Will preformance mode impact the alts?
+#### Will performance mode impact the alts?
 
 This is a yes/no situation, preformance mode won't limit your alts, but if their fps is too low or high to handle, just use the setfps command.
 
