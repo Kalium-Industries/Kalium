@@ -14,7 +14,7 @@ The leading Roblox alt control.
 - Beautiful modern user interface, and supports chat commands.
 - Supports 99% of games, whether you are using it for raiding, dancing, or just having fun!
 - Will soon support Da  Hood as a Da Hood alt control, you can already use it in normal mode. 
-- Performance mode; Struggling running more then 5-10 alts? Preformance mode is able to reduce cpu and ram usage for you.
+- Performance mode; Struggling running more then 5-10 alts? Performance mode is able to reduce cpu and ram usage for you.
 
 ## FAQ
 
