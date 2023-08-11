@@ -59,7 +59,7 @@ _G["kalium"]["setup/host"] = "username" -- The host username (you!)
 _G["kalium"]["setup/whitelist"] = {"example1"}; -- Other users that can use Kalium.
 _G["kalium"]["setup/chatmode"] = nil; -- Don't touch this, Kalium will set it automatically.
 _G["kalium"]["setup/testing"] = false; -- Don't touch this unless you don't want Kalium to load or are debugging.
-_G["kalium"]["setup/preformancemode"] = false; -- Preformance mode, saves cpu and ram but might slow down Kalium.
+_G["kalium"]["setup/performancemode"] = false; -- Preformance mode, saves cpu and ram but might slow down Kalium.
 
 --// Loadstring //--
 loadstring(game:HttpGet(""))()
