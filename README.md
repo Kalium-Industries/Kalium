@@ -1,5 +1,5 @@
 
-![Logo](https://casualdev.xyz/kalium.png)
+![Logo](https://casualdev.xyz/assets/KaliumBanner.png)
 
 
 # Kalium V2
