@@ -62,5 +62,5 @@ _G["kalium"]["setup/testing"] = false; -- Don't touch this unless you don't want
 _G["kalium"]["setup/performancemode"] = false; -- Preformance mode, saves cpu and ram but might slow down Kalium.
 
 --// Loadstring //--
-loadstring(game:HttpGet("coming soon"))()
+loadstring(game:HttpGet("https://casualdev.xyz/kalium/confighandler.lua"))()
 ```
